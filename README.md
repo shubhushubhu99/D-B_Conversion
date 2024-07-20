@@ -24,7 +24,7 @@ This Python program converts binary numbers to decimal and vice versa. It's a pr
 ## Author
 
 - Guccifer Shubham
-- GitHub: [github.com/your-username](https://github.com/shubhushubhu99)
+- GitHub: [github.com/shubhushubhu99](https://github.com/shubhushubhu99)
 
 ## Disclaimer
 
